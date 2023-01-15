@@ -1,4 +1,4 @@
-print('Здравствуйте.')
+
 
 start_phrase =' '
 summ = 0
