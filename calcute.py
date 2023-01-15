@@ -1,5 +1,5 @@
 print('Здравствуйте.')
-print('Привет.')
+
 start_phrase =' '
 summ = 0
 
