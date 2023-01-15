@@ -1,4 +1,4 @@
-print('Здравствуйте')
+print('Здравствуйте, коллеги.')
 
 for number in range (1, 10):
   for digit in range(1, 10):
