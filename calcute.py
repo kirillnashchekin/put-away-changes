@@ -1,4 +1,4 @@
-
+print('Здравствуйете.')
 
 start_phrase =' '
 summ = 0
